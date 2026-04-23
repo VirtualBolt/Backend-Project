@@ -100,3 +100,6 @@ You can test these routes through two primary methods:
    - Copy the `"access_token"` from the JSON response.
    - Set it as the value for the `jwt_token` Collection Variable in Postman.
    - You can now test every raw CRUD endpoint natively!
+
+
+https://res.cloudinary.com/dfzodc4k2/video/upload/q_auto/f_auto/v1776962747/WhatsApp_Video_2026-04-23_at_10.12.45_PM_ojft8h.mp4
